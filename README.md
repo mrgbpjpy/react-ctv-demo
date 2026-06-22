@@ -137,3 +137,11 @@ npm run preview
 Erick Esquilin
 
 Software Developer | Power Platform Developer | React Developer
+
+## Contact
+
+For questions, collaboration opportunities, or technical discussions:
+
+- Email: <mrgbpjpy@gmail.com>
+- GitHub: https://github.com/mrgbpjpy
+- Demo: https://fox-local-ctv.vercel.app/
